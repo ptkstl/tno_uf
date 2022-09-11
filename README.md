@@ -1,2 +1,4 @@
 # tno_uf
-This Repository is for sharing Files from various TNO submods in order to cooperate. Yay!
+# old tno submod community asset sharing github
+# did anyone ever use this except me actually?
+# anyways this is now used for anm assets
